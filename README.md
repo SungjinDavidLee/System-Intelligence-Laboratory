@@ -53,8 +53,9 @@ Only journal articles are listed below, in reverse chronological order. For the 
 
 ### 2026
 
-1. J. Choi, J. Park, and **S. Lee**, “Diffusion Models for End-to-End Autonomous Driving: A Survey of Perception, Prediction, Planning, and Control,” *IEEE Access*, vol. 14, pp. 95498–95518, 2026. [DOI](https://doi.org/10.1109/ACCESS.2026.3704955)
-2. G. Park, J. Park, and **S. Lee**, “Optimal Cell Segmentation and Counting Strategy for Embedding in Low-Power AIoT Devices,” *Applied Sciences*, vol. 16, no. 1, Art. no. 357, 2026. [DOI](https://doi.org/10.3390/app16010357)
+1. Y. Park, W. Jun, and **S. Lee**, “SAFE-Q: Safety-Aware End-to-End Driving Using CrossQ Deep Reinforcement Learning,” *IEEE Sensors Journal*, 2026. [IEEE Xplore](https://ieeexplore.ieee.org/document/11276858) · [DOI](https://doi.org/10.1109/JSEN.2025.3633658)
+2. J. Choi, J. Park, and **S. Lee**, “Diffusion Models for End-to-End Autonomous Driving: A Survey of Perception, Prediction, Planning, and Control,” *IEEE Access*, vol. 14, pp. 95498–95518, 2026. [DOI](https://doi.org/10.1109/ACCESS.2026.3704955)
+3. G. Park, J. Park, and **S. Lee**, “Optimal Cell Segmentation and Counting Strategy for Embedding in Low-Power AIoT Devices,” *Applied Sciences*, vol. 16, no. 1, Art. no. 357, 2026. [DOI](https://doi.org/10.3390/app16010357)
 
 ### 2025
 
@@ -62,31 +63,21 @@ Only journal articles are listed below, in reverse chronological order. For the 
 2. M. Son and **S. Lee**, “Advancing Multimodal Large Language Models: Optimizing Prompt Engineering Strategies for Enhanced Performance,” *Applied Sciences*, vol. 15, no. 7, Art. no. 3992, 2025. [DOI](https://doi.org/10.3390/app15073992)
 3. W. Jun and **S. Lee**, “A Comparative Study and Optimization of Camera-Based BEV Segmentation for Real-Time Autonomous Driving,” *Sensors*, vol. 25, no. 7, Art. no. 2300, 2025. [DOI](https://doi.org/10.3390/s25072300)
 4. T. Oh, Y.-J. Won, and **S. Lee**, “TA-RRT*: Adaptive Sampling-Based Path Planning Using Terrain Analysis,” *Applied Sciences*, vol. 15, no. 5, Art. no. 2287, 2025. [DOI](https://doi.org/10.3390/app15052287)
-5. M. Son and **S. Lee**, “Research on Prompt Engineering Techniques in Large Language Models,” *The Journal of Korean Institute of Communications and Information Sciences*, vol. 50, no. 1, pp. 9–21, 2025. [DOI](https://doi.org/10.7840/kics.2025.50.1.9)
-6. M. Son, Y.-J. Won, and **S. Lee**, “Optimizing Large Language Models: A Deep Dive into Effective Prompt Engineering Techniques,” *Applied Sciences*, vol. 15, no. 3, Art. no. 1430, 2025. [DOI](https://doi.org/10.3390/app15031430)
+5. M. Son, Y.-J. Won, and **S. Lee**, “Optimizing Large Language Models: A Deep Dive into Effective Prompt Engineering Techniques,” *Applied Sciences*, vol. 15, no. 3, Art. no. 1430, 2025. [DOI](https://doi.org/10.3390/app15031430)
 
 ### 2024
 
-1. J.-H. Choi, Y. Park, W. Jun, and **S. Lee**, “Research Trends Focused on End-to-End Learning Technologies for Autonomous Vehicles,” *The Journal of Korean Institute of Communications and Information Sciences*, vol. 49, no. 11, pp. 1614–1630, 2024. [DOI](https://doi.org/10.7840/kics.2024.49.11.1614)
-2. W. Jun and **S. Lee**, “Research on BEV Segmentation for Autonomous Driving,” *The Journal of Korean Institute of Communications and Information Sciences*, vol. 49, no. 10, pp. 1345–1353, 2024. [DOI](https://doi.org/10.7840/kics.2024.49.10.1345)
-3. W. Jun, J. Yoo, and **S. Lee**, “Synthetic Data Enhancement and Network Compression Technology of Monocular Depth Estimation for Real-Time Autonomous Driving System,” *Sensors*, vol. 24, no. 13, Art. no. 4205, 2024. [DOI](https://doi.org/10.3390/s24134205)
+1. W. Jun, J. Yoo, and **S. Lee**, “Synthetic Data Enhancement and Network Compression Technology of Monocular Depth Estimation for Real-Time Autonomous Driving System,” *Sensors*, vol. 24, no. 13, Art. no. 4205, 2024. [DOI](https://doi.org/10.3390/s24134205)
 
 ### 2023
 
 1. W. Jun, M. Son, J. Yoo, and **S. Lee**, “Optimal Configuration of Multi-Task Learning for Autonomous Driving,” *Sensors*, vol. 23, no. 24, Art. no. 9729, 2023. [DOI](https://doi.org/10.3390/s23249729)
 2. D. Kwak, J. Choi, and **S. Lee**, “Rethinking Breast Cancer Diagnosis through Deep Learning Based Image Recognition,” *Sensors*, vol. 23, no. 4, Art. no. 2307, 2023. [DOI](https://doi.org/10.3390/s23042307)
 3. D. Kwak, J. Choi, and **S. Lee**, “A Method of the Breast Cancer Image Diagnosis Using Artificial Intelligence Medical Images Recognition Technology Network,” *The Journal of Korean Institute of Communications and Information Sciences*, vol. 48, no. 2, pp. 216–226, 2023. [DOI](https://doi.org/10.7840/kics.2023.48.2.216)
-4. **S. Lee**, A. Lee, and M. Hong, “Cardiac CT Image Segmentation for Deep Learning-Based Coronary Calcium Detection Using K-Means Clustering and Grabcut Algorithm,” *Computer Systems Science and Engineering*, vol. 46, no. 2, pp. 2543–2554, 2023. [DOI](https://doi.org/10.32604/csse.2023.037055)
 
 ### 2022
 
 1. H. Lee, N. Lee, and **S. Lee**, “A Method of Deep Learning Model Optimization for Image Classification on Edge Device,” *Sensors*, vol. 22, no. 19, Art. no. 7344, 2022. [DOI](https://doi.org/10.3390/s22197344)
-
-### 2021
-
-1. **S. Lee**, B. Rim, S.-S. Jou, H.-W. Gil, X. Jia, A. Lee, and M. Hong, “Deep-Learning-Based Coronary Artery Calcium Detection from CT Image,” *Sensors*, vol. 21, no. 21, Art. no. 7059, 2021. [DOI](https://doi.org/10.3390/s21217059)
-2. **S. Lee**, M. Hong, H. Va, and J.-Y. Park, “Implementation of a Subjective Visual Vertical and Horizontal Testing System Using Virtual Reality,” *Computers, Materials & Continua*, vol. 67, no. 3, pp. 3669–3679, 2021. [DOI](https://doi.org/10.32604/cmc.2021.015706)
-3. B. Rim, **S. Lee**, A. Lee, H.-W. Gil, and M. Hong, “Semantic Cardiac Segmentation in Chest CT Images Using K-Means Clustering and the Mathematical Morphology Method,” *Sensors*, vol. 21, no. 8, Art. no. 2675, 2021. [DOI](https://doi.org/10.3390/s21082675)
 
 ### Earlier Journal Articles
 

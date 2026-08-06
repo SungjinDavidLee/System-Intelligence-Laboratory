@@ -96,14 +96,18 @@ Only journal articles are listed below, in reverse chronological order. For the 
 
 1. **과학기술정보통신부 / IITP**  
    자율이동체를 위한 온디바이스 AI반도체 기반 특화 라이브러리 기술개발  
-   *Development of Specialized Library Technology Based on On-Device AI Semiconductors for Autonomous Agents*  
-   Grant No. **RS-2026-25525596**
+   *(Core Technology Development for On-Device Application Support for Autonomous Agents)*  
+   **기간:** 2026년 4월 1일 - 2029년 12월 31일
 
-2. **산업통상자원부**  
-   바이오반도체 기반 고속/다중/초정밀 검출을 위한 인공지능 학습 및 내재화, 예측 시스템 기술 개발
+2. **산업통상자원부 / KEIT**  
+   바이오반도체 기반 고속/다중/초정밀 검출을 위한 인공지능 학습 및 내재화, 예측 시스템 기술 개발  
+   *(Establishment of an artificial intelligence (AI) based bio-semiconductor development and commercialization support system for ultra-precision innovative diagnosis and analysis)*  
+   **기간:** 2025년 4월 1일 - 2029년 12월 31일
 
-3. **산업통상자원부**  
-   세포치료제 생산을 위한 실시간 모니터링 기반 일회용 다중세포배양 자동화시스템 공정기술개발
+3. **산업통상자원부 / KEIT**  
+   세포치료제 생산을 위한 실시간 모니터링 기반 일회용 다중세포배양 자동화시스템 공정기술개발  
+   *(Establishment of a support system for the development of advanced technologies for manufacturing processes of high-quality cell and gene therapies)*  
+   **기간:** 2025년 5월 1일 - 2028년 12월 31일
 
 ## Contact and Recruitment
 

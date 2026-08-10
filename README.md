@@ -40,7 +40,7 @@ We investigate learning-based perception, multimodal reasoning, planning, contro
 | Name | Position |
 |---|---|
 | **Wonseok Lee** | Undergraduate Student |
-| **Taesung Lee** | Undergraduate Student |
+| **Taesung Kim** | Undergraduate Student |
 | **Ju Woo** | Undergraduate Student |
 
 ### Alumni

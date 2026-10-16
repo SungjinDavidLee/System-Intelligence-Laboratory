@@ -56,6 +56,7 @@ Only journal articles are listed below, in reverse chronological order. For the 
 1. Y. Park, W. Jun, and **S. Lee**, “SAFE-Q: Safety-Aware End-to-End Driving Using CrossQ Deep Reinforcement Learning,” *IEEE Sensors Journal*, 2026. [IEEE Xplore](https://ieeexplore.ieee.org/document/11276858) · [DOI](https://doi.org/10.1109/JSEN.2025.3633658)
 2. J. Choi, J. Park, and **S. Lee**, “Diffusion Models for End-to-End Autonomous Driving: A Survey of Perception, Prediction, Planning, and Control,” *IEEE Access*, vol. 14, pp. 95498–95518, 2026. [DOI](https://doi.org/10.1109/ACCESS.2026.3704955)
 3. G. Park, J. Park, and **S. Lee**, “Optimal Cell Segmentation and Counting Strategy for Embedding in Low-Power AIoT Devices,” *Applied Sciences*, vol. 16, no. 1, Art. no. 357, 2026. [DOI](https://doi.org/10.3390/app16010357)
+4. J. Shin, J. Ahn, and **S. Lee**, “Safe Predictor-Feedback CACC with V2X-Aware Adaptive Spacing for Heterogeneous Vehicle Platoons,” Sensors, vol. 26, no. 15, 2026. [DOI](https://doi.org/10.3390/s26154806)
 
 ### 2025
 
